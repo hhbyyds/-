@@ -1,10 +1,11 @@
-#include<iostream>
+ï»¿#include<iostream>
 
 using namespace std;
 
 int main(void)
 {
 	std::cout << "Hello world!\n";
-	cout << "½ñÌìÎÒºÃ¿ªÐÄ" << endl;
+	cout << "ä»Šå¤©æˆ‘å¥½å¼€å¿ƒ" << endl;
+	cout << "And you?\n";
 	return 0;
 }
